@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://store.cesium.di.uminho.pt">
+  <a>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="src/wwwroot/images/brand/carbonDark.svg">
       <source media="(prefers-color-scheme: light)" srcset="src/wwwroot/images/brand/carbonLight.svg">
